@@ -1,2 +1,2 @@
 # ConsolestyleX
-ConsolestyleX is a python library that allows you to customize console background, text colors, and other features. You probably think that you don't need this, after all there is colorama, right? Yes, but colorama doesn't have colors like gold or styles like small or crooked text!
+ConsolestyleX is a python library that allows you to customize console background, text colors, and other features. You probably think that you don't need this, after all there is colorama, right? Yes, but colorama doesn't have colors like gold or styles like small or crooked text! NOTE! The program requires the "colorama" software to be installed and install it in the console "pip install colorama".
